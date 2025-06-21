@@ -54,15 +54,6 @@ print("Bienvenue sur mon profil ! 🚀")
 
 ---
 
-<h2 align="center">📂 Mes projets favoris</h2>
-
-*(À venir : mes plus belles réalisations !)*
-
-- **Projet1** : Description rapide & [lien](#)
-- **Projet2** : Description rapide & [lien](#)
-
----
-
 <h2 align="center">📊 Stats GitHub</h2>
 
 <p align="center">
