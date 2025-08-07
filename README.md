@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🌈 Qui suis-je ?</h2>
+<h2 align="center">🤓 Qui suis-je ?</h2>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ print("Bienvenue sur mon profil ! 🚀")
 - 🧑‍💻 Bidouiller, apprendre et résoudre des bugs
 - 🤖 Automatiser des trucs avec Python
 - 💬 Partager sur les forums & réseaux
-- 🎮 Jouer, écouter de la musique et découvrir le Japon 🇯🇵
+- 🎮 Jouer, écouter de la musique et découvrir le monde 🌏
 
 ---
 
@@ -58,8 +58,8 @@ print("Bienvenue sur mon profil ! 🚀")
 
 *(À venir : mes plus belles réalisations !)*
 
-- **Projet1** : Description rapide & [lien](#)
-- **Projet2** : Description rapide & [lien](#)
+- **Projet1** : outils no code capable de créer des portfolios (opérationnel mais pas optimal)
+- **Projet2** : A venir
 
 ---
 
@@ -92,7 +92,7 @@ print("Bienvenue sur mon profil ! 🚀")
   <summary>🥤 Fun facts & Dev vibes !</summary>
   <ul>
     <li>Fan de <b>jeux vidéo</b> et d’anime 🎮</li>
-    <li>Je rêve de voyager au Japon 🇯🇵</li>
+    <li>Je rêve de faire le tour du monde </li>
     <li>Ma devise : <i>“Code, Café & Curiosité”</i> ☕</li>
     <li>Astuce du jour : <b>Ctrl + S</b> sauve des vies !</li>
   </ul>
