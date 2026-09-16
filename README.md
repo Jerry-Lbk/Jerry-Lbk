@@ -1,106 +1,121 @@
-<!-- Profil GitHub de Jerry-Lbk -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FF5E7E&background=00000000&center=true&vCenter=true&width=600&lines=Salut+!+Moi%2C+c'est+Jerry-Lbk+%F0%9F%91%8B;%E2%9A%99%EF%B8%8F+%C3%89tudiant+en+code+et+passionn%C3%A9+de+d%C3%A9veloppement;Toujours+curieux+et+pr%C3%AAt+%C3%A0+apprendre+!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="dev gif"/>
-</p>
-
----
-
-<h2 align="center">🤓 Qui suis-je ?</h2>
+<!-- GitHub Profile README — Jerry-Lbk -->
 
 <div align="center">
 
-🎓 <b>Étudiant développeur</b> en quête de nouveaux défis et d’innovations.  
-💻 J’adore coder, apprendre, tester, recommencer, et surtout… partager !  
-🚀 Fan de projets qui sortent de l’ordinaire et de collaborations fun.  
-☕ Accro au café et à la veille technologique.
+# Salut, moi c’est Jerry 👋
+
+### Étudiant en informatique appliquée · Développement · Linux · Automatisation · Data
+
+Je construis des projets pour apprendre en profondeur, résoudre des problèmes concrets et transformer des idées en outils fonctionnels.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jerry--Lbk-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Jerry-Lbk/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerry%20Thenene-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-thenene-ba7ba634a)
 
 </div>
 
 ---
 
-<h2 align="center">🔮 Techs & Compétences</h2>
+## 👨‍💻 À propos de moi
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+- 🎓 Étudiant en **informatique appliquée** à l’Université de Moncton
+- 🧠 J’aime apprendre en construisant : développement Web, programmation, automatisation et analyse de données
+- 🐧 Utilisateur Linux, actuellement en train d’approfondir **Arch/CachyOS**, Bash et l’administration système
+- 🤖 Je m’intéresse beaucoup aux **outils IA pour le développement**, aux agents et aux workflows automatisés
+- 📊 J’apprends actuellement **Pandas** et l’analyse de données avec Python
+- 🛠️ Je préfère comprendre comment les choses fonctionnent plutôt que simplement empiler des frameworks
+- 🚀 J’aime les hackathons, les projets utiles et les défis où il faut prototyper vite
+
+---
+
+## 🧰 Stack & outils
+
+### Langages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,php,html,css,bash" alt="Langages" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="100" alt="code"/>
+### Outils & environnement
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode,sqlite" alt="Outils" />
 </p>
 
-```python
-# Un peu de Python ? 
-print("Bienvenue sur mon profil ! 🚀")
+**Autres outils :** Docker · Tailscale · Nextcloud · CasaOS · n8n · GitHub Pages · KDE Plasma
+
+---
+
+## 🚧 Ce que je construis / explore en ce moment
+
+- 📊 **Analyse de données avec Python & Pandas**
+- 🤖 **Automatisation et agents IA** pour simplifier des tâches répétitives
+- 🐧 **Linux & systèmes** : administration, ligne de commande, Docker et homelab
+- 🌐 **Applications Web** simples, rapides et utiles
+- 🧩 **C++ orienté objet**, structures de données et logique algorithmique
+
+---
+
+## 📌 Projets publics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+Mon portfolio personnel construit en HTML, CSS et JavaScript.
+
+[Voir le dépôt →](https://github.com/Jerry-Lbk/portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ PHP Task Manager
+
+Projet Web en PHP autour de la gestion de tâches et de la logique applicative côté serveur.
+
+[Voir le dépôt →](https://github.com/Jerry-Lbk/php-task-manager)
+
+</td>
+</tr>
+</table>
+
+> Plusieurs de mes autres projets sont privés, locaux ou encore en cours de développement.
+
+---
+
+## 🧪 Quelques sujets que j’aime explorer
+
+```text
+AI-assisted development   ███████████████████░
+Linux & homelab           ██████████████████░░
+Web development           ██████████████████░░
+Automation                █████████████████░░░
+Data analysis             ████████████░░░░░░░░
+C++ / problem solving     ███████████████░░░░░
 ```
 
 ---
 
-<h2 align="center">🌟 Ce que j’aime faire</h2>
+## 📊 GitHub
 
-- 🎨 Créer des sites web modernes & responsive
-- 🧑‍💻 Bidouiller, apprendre et résoudre des bugs
-- 🤖 Automatiser des trucs avec Python
-- 💬 Partager sur les forums & réseaux
-- 🎮 Jouer, écouter de la musique et découvrir le monde 🌏
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jerry-Lbk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Lbk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<h2 align="center">📂 Mes projets favoris</h2>
+<img src="https://streak-stats.demolab.com?user=Jerry-Lbk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-*(À venir : mes plus belles réalisations !)*
-
-- **Projet1** : outils no code capable de créer des portfolios (opérationnel mais pas optimal)
-- **Projet2** : A venir
+</div>
 
 ---
 
-<h2 align="center">📊 Stats GitHub</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerry-Lbk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Jerry-Lbk&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jerry-Lbk&theme=tokyo-night&hide_border=true" alt="GitHub Activity"/>
-</p>
+### 🎯 Objectif
 
----
+**Continuer à apprendre, construire des projets utiles et devenir meilleur à chaque itération.**
 
-<h2 align="center">🌐 Retrouve-moi sur</h2>
+<sub>Curieux par défaut. Builder par pratique. 🚀</sub>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jerry-thenene-ba7ba634a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thenenejerry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<details>
-  <summary>🥤 Fun facts & Dev vibes !</summary>
-  <ul>
-    <li>Fan de <b>jeux vidéo</b> et d’anime 🎮</li>
-    <li>Je rêve de faire le tour du monde </li>
-    <li>Ma devise : <i>“Code, Café & Curiosité”</i> ☕</li>
-    <li>Astuce du jour : <b>Ctrl + S</b> sauve des vies !</li>
-  </ul>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="fun"/>
-</details>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+</div>
