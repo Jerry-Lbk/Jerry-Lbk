@@ -32,7 +32,7 @@
 
 ```yaml
 name: Jerry Lubaki Thenene
-location: Moncton, New Brunswick, Canada
+location: Worldwide 🌍
 education: Applied Computer Science @ Université de Moncton
 focus:
   - Software development
